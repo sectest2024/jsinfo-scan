@@ -55,3 +55,5 @@ vul_path = r"""
         gateway/actuator/env
         
         """
+
+参考：https://github.com/p1g3/JSINFO-SCAN
